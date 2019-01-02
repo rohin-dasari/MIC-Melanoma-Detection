@@ -34,4 +34,6 @@ This is the current area of work.
 - pywavelet
 
 # Additional Resources
-- Melanoma Diagnosis by the Use of Wavelet Analysis based on Morphological Operators 
+- ![Melanoma Diagnosis by the Use of Wavelet Analysis based on Morphological Operators](https://pdfs.semanticscholar.org/d858/469887adae7e32f81eba8cb80fcc76dd45b5.pdf)
+
+- ![Lacunarity Analysis: A Promising Method for the Automated Assessment of Melanocytic Naevi and Melanoma](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007449)
