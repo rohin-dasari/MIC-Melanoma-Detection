@@ -28,10 +28,9 @@ Color irregularity can be measured by using a parameter known as lacunarity. Lac
 This is the current area of work.
 
 # Dependencies
-- numpy
-- openCV
-- matplotlib
-- pywavelet
+- ![numpy](http://www.numpy.org/)
+- ![openCV](https://opencv.org/)
+- ![pywavelet](https://pywavelets.readthedocs.io/en/latest/)
 
 # Additional Resources
 - ![Melanoma Diagnosis by the Use of Wavelet Analysis based on Morphological Operators](https://pdfs.semanticscholar.org/d858/469887adae7e32f81eba8cb80fcc76dd45b5.pdf)
